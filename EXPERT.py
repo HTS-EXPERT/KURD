@@ -1,9 +1,9 @@
-#Code By DRAGON
+#Code By EXPERT
 import os, sys, time, datetime, random, hashlib, re, threading, json, urllib, cookielib, getpass
 
 
 os.system("xdg-open https://t.me/HTS_EXPERT")
-print("\033[91m------\033[33m shera it\033[92m ------")
+print("\033[91m------\033[33m  HTS UP\033[92m ------")
 CorrectUsername = "HTS"
 CorrectPassword = "UP"
 
